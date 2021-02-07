@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/https//susheel9944/.github.io/contactmanager/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/https//susheel9944/.github.io/contactmanager/static/js/main.ff34897e.chunk.js",
-    "main.js.map": "/https//susheel9944/.github.io/contactmanager/static/js/main.ff34897e.chunk.js.map",
-    "runtime-main.js": "/https//susheel9944/.github.io/contactmanager/static/js/runtime-main.b555d468.js",
-    "runtime-main.js.map": "/https//susheel9944/.github.io/contactmanager/static/js/runtime-main.b555d468.js.map",
-    "static/css/2.150d169a.chunk.css": "/https//susheel9944/.github.io/contactmanager/static/css/2.150d169a.chunk.css",
-    "static/js/2.e65e0544.chunk.js": "/https//susheel9944/.github.io/contactmanager/static/js/2.e65e0544.chunk.js",
-    "static/js/2.e65e0544.chunk.js.map": "/https//susheel9944/.github.io/contactmanager/static/js/2.e65e0544.chunk.js.map",
-    "index.html": "/https//susheel9944/.github.io/contactmanager/index.html",
-    "static/css/2.150d169a.chunk.css.map": "/https//susheel9944/.github.io/contactmanager/static/css/2.150d169a.chunk.css.map",
-    "static/css/main.6dea0f05.chunk.css.map": "/https//susheel9944/.github.io/contactmanager/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.e65e0544.chunk.js.LICENSE.txt": "/https//susheel9944/.github.io/contactmanager/static/js/2.e65e0544.chunk.js.LICENSE.txt"
+    "main.css": "/.github.io/contactmanager/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/.github.io/contactmanager/static/js/main.ff34897e.chunk.js",
+    "main.js.map": "/.github.io/contactmanager/static/js/main.ff34897e.chunk.js.map",
+    "runtime-main.js": "/.github.io/contactmanager/static/js/runtime-main.e7df4ba8.js",
+    "runtime-main.js.map": "/.github.io/contactmanager/static/js/runtime-main.e7df4ba8.js.map",
+    "static/css/2.150d169a.chunk.css": "/.github.io/contactmanager/static/css/2.150d169a.chunk.css",
+    "static/js/2.e65e0544.chunk.js": "/.github.io/contactmanager/static/js/2.e65e0544.chunk.js",
+    "static/js/2.e65e0544.chunk.js.map": "/.github.io/contactmanager/static/js/2.e65e0544.chunk.js.map",
+    "index.html": "/.github.io/contactmanager/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/.github.io/contactmanager/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/.github.io/contactmanager/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.e65e0544.chunk.js.LICENSE.txt": "/.github.io/contactmanager/static/js/2.e65e0544.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b555d468.js",
+    "static/js/runtime-main.e7df4ba8.js",
     "static/css/2.150d169a.chunk.css",
     "static/js/2.e65e0544.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
